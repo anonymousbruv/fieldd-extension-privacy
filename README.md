@@ -1,4 +1,4 @@
-# FieldD Extension Privacy Policy
+# Fieldd Extension Privacy Policy
 
 This repository contains the privacy policy for the FieldD Chrome Extension.
 
