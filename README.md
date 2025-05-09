@@ -1,6 +1,6 @@
 # Fieldd Extension Privacy Policy
 
-This repository contains the privacy policy for the FieldD Chrome Extension.
+This repository contains the privacy policy for the Fieldd Chrome Extension.
 
 ## View Privacy Policy
 
@@ -8,7 +8,7 @@ The privacy policy is available at: [Privacy Policy](privacy-policy.html)
 
 ## About
 
-This privacy policy explains how the FieldD Extension handles user data and privacy concerns. It covers:
+This privacy policy explains how the Fieldd Extension handles user data and privacy concerns. It covers:
 - Data collection and usage
 - Required permissions
 - Data security
